@@ -1,1 +1,1 @@
-[Image of a Neuron](https://en.wikipedia.org/wiki/Neuron#/media/File:Blausen_0657_MultipolarNeuron.png)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
